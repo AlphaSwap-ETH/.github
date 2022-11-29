@@ -1,5 +1,3 @@
-
-
 <span align="center">
 
 # AlphaSwap.cc 🔺
@@ -26,7 +24,5 @@
 - 🐦: https://twitter.com/AlphaSwapCC
 - 👾: https://github.com/AlphaSwap-cc
 - 🌐: http://www.alphaswap.cc/
-
-
 
 </span>
