@@ -19,8 +19,8 @@
   
   ### ⭐️ Follow Us:
 
-- 🐦: https://twitter.com/AlphaSwapCC
-- 👾: https://github.com/AlphaSwap-cc
-- 🌐: http://www.alphaswap.cc/
+🐦: https://twitter.com/AlphaSwapCC
+👾: https://github.com/AlphaSwap-cc
+🌐: http://www.alphaswap.cc/
 
 </span>
