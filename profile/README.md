@@ -16,8 +16,6 @@
 
   
 <br />
-
-![Metrics](/profile/metrics.svg)
   
   ### ⭐️ Follow Us:
 
