@@ -16,11 +16,15 @@
                                                 
                                                                                                                              
   ```       
+  ### 🌐: Coming soon...
+  ### 🐦: https://twitter.com/AlphaSwapETH
+  ### 📚: Coming soon...
+  ### 🥷🏼: ```xTycoon.ᴇᴛʜ ⟠```
   
 ---
   
-  ![AlphaSwap ETH Banner (1)](https://user-images.githubusercontent.com/113842155/209011914-da3750df-54a1-4e17-a660-44b0a1f35dc3.png)
-                                                                                                                                                       
+   ![Banner AlphaSwap ETH](https://user-images.githubusercontent.com/113842155/209034765-b3897d33-406a-4381-83ee-978c4db2802a.png)
+  
                                                                                                                                                        
                                                                                                                                                        
                                                                                                                                                        
